@@ -5,7 +5,7 @@ Beiträge sind immer gern willkommen --> Pull request
 
 ## Wissenssammlungen
 * Der Amateurfunkbehelf - [Webseite](http://ham.granjow.net/behelf.html) - [Github](https://github.com/hb4ff/Amateurfunkbehelf)
-* einfache Formelsammlung [Github](https://github.com/kkroesch/formelsammlung)
+* einfache Formelsammlung - [Github](https://github.com/kkroesch/formelsammlung)
 
 ## Foren
 * CB-Funk-lastiges Forum - [**Funkbasis**](https://funkbasis.de/)
@@ -13,8 +13,8 @@ Beiträge sind immer gern willkommen --> Pull request
 * Forum der **DL-QRP-AG** für QRP und Selbstbau im Amateurfunk - [QRP Forum](https://www.qrpforum.de/forum/)
 
 ## Youtube Channels
-* **DL2YMR** - gute Mischung aus Wissen- und Praxisvermittlung [DL2YMR@YT](https://www.youtube.com/user/DL2YMR/)
-* **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
+* **DL2YMR** - gute Mischung aus Wissen- und Praxisvermittlung - [DL2YMR@YT](https://www.youtube.com/user/DL2YMR/)
+* **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests - [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
 
 ## Bücher
 * Amateurfunk - Das umfassende Handbuch (DL6RAL) - [Website Rheinwerk Verlag](https://www.rheinwerk-verlag.de/amateurfunk-das-umfassende-handbuch/)
@@ -24,7 +24,8 @@ Beiträge sind immer gern willkommen --> Pull request
 
 ## Tools
 * Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** - [Github](https://github.com/larsweiler/freerfz)
-* **Geländetopographie** zwischen zwei Punkten darstellen [Heywhatsthat](https://www.heywhatsthat.com/)
+* **Geländetopographie** zwischen zwei Punkten darstellen - [Heywhatsthat](https://www.heywhatsthat.com/)
+* **Ham Radio Trainer** gute Lernhilfe für die Prüfung - [Website](http://www.hamradiotrainer.de)
 
 ### SDR
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
