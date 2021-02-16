@@ -8,7 +8,7 @@ Beiträge sind immer gern willkommen --> Pull request
 * einfache Formelsammlung [Github](https://github.com/kkroesch/formelsammlung)
 
 ## Tools
-* Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** - https://github.com/larsweiler/freerfz
+* Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** - [Github](https://github.com/larsweiler/freerfz)
 * **Geländetopographie** zwischen zwei Punkten darstellen [Heywhatsthat](https://www.heywhatsthat.com/)
 
 ## Foren
@@ -21,5 +21,5 @@ Beiträge sind immer gern willkommen --> Pull request
 * **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
 
 ## Antennen
-* Bauanleitung einer **T2LT** für's 11m-Band - https://forestradio.wordpress.com/2019/05/26/bauanleitung-t2lt-27mhz-cb-funk-drahtantenne/
+* Bauanleitung einer **T2LT** für's 11m-Band - [Website Forestradio][https://forestradio.wordpress.com/2019/05/26/bauanleitung-t2lt-27mhz-cb-funk-drahtantenne/)
 * 
