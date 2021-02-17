@@ -3,7 +3,7 @@
 An dieser Stelle sollen hilfreiche Dokumente, Links und andere Wissensquellen für den Einstieg in den Amateurfunk gesammelt werden. Die Liste erhebt keinen Anspruch auf Vollständigkeit.
 Beiträge sind immer gern willkommen --> Pull request
 
-### Lernhilfen
+## Lernhilfen
 * **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php) - [Website](http://www.hamradiotrainer.de)
 * **AfuP** Prüfungstraining für das Amateurfunkzeugnis - [Website](https://www.afup.a36.de/)
 * **Morsen** lernen von DJ4UF aka Eckart K.W. Moltrecht - [Website](https://dj4uf.de/morsen)
@@ -11,7 +11,13 @@ Beiträge sind immer gern willkommen --> Pull request
 * Der Amateurfunkbehelf - [Webseite](http://ham.granjow.net/behelf.html) - [Github](https://github.com/hb4ff/Amateurfunkbehelf)
 * einfache Formelsammlung - [Github](https://github.com/kkroesch/formelsammlung)
 
-## Bücher
+### Fragenkataloge der Bundesnetzagentur
+Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüfunk in Deutschland sind, auf Ihrer [Webseite](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/SpezielleAnwendungen/Amateurfunk/_functions/faq_Amateurfunk-table.html#FAQ686290) in digitaler Form zur Verfügung.
+* Prüfungsfragen in den Prüfungsteilen **"Betriebliche Kenntnisse"** und **"Kenntnisse von Vorschriften"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klassen A und E** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/BetriebVorschriftFragKlAuEId7830pdf.pdf?__blob=publicationFile&v=7)
+* Prüfungsfragen im Prüfungsteil **"Technische Kenntnisse"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klasse A** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/TechnikFragenkatalogKlasseAf252rId9014pdf.pdf?__blob=publicationFile&v=5)
+* Prüfungsfragen im Prüfungsteil **"Technische Kenntnisse"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klasse E** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/Technik_KI_E_Katalog-2006-v1-2z.pdf?__blob=publicationFile&v=2)
+
+### Bücher
 * Amateurfunk - Das umfassende Handbuch (DL6RAL) - [Website Rheinwerk Verlag](https://www.rheinwerk-verlag.de/amateurfunk-das-umfassende-handbuch/)
 * Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse E - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-E)
 * Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse A - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
