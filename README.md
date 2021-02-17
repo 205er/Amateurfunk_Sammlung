@@ -3,9 +3,19 @@
 An dieser Stelle sollen hilfreiche Dokumente, Links und andere Wissensquellen für den Einstieg in den Amateurfunk gesammelt werden. Die Liste erhebt keinen Anspruch auf Vollständigkeit.
 Beiträge sind immer gern willkommen --> Pull request
 
-## Wissenssammlungen
+### Lernhilfen
+* **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php) - [Website](http://www.hamradiotrainer.de)
+* **AfuP** Prüfungstraining für das Amateurfunkzeugnis - [Website](https://www.afup.a36.de/)
+* **Morsen** lernen von DJ4UF aka Eckart K.W. Moltrecht - [Website](https://dj4uf.de/morsen)
+* **Lichtblicke & Krücken** von DL9HCG aka G- Lindemann - [Website](https://www.dl9hcg.a36.de/)
 * Der Amateurfunkbehelf - [Webseite](http://ham.granjow.net/behelf.html) - [Github](https://github.com/hb4ff/Amateurfunkbehelf)
 * einfache Formelsammlung - [Github](https://github.com/kkroesch/formelsammlung)
+
+## Bücher
+* Amateurfunk - Das umfassende Handbuch (DL6RAL) - [Website Rheinwerk Verlag](https://www.rheinwerk-verlag.de/amateurfunk-das-umfassende-handbuch/)
+* Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse E - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-E)
+* Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse A - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
+* Amateurfunklehrgang Betriebstechnik und Vorschriften - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Betriebstechnik-und-Vorschriften)
 
 ## Foren
 * CB-Funk-lastiges Forum - [**Funkbasis**](https://funkbasis.de/)
@@ -16,21 +26,9 @@ Beiträge sind immer gern willkommen --> Pull request
 * **DL2YMR** - gute Mischung aus Wissen- und Praxisvermittlung - [DL2YMR@YT](https://www.youtube.com/user/DL2YMR/)
 * **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests - [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
 
-## Bücher
-* Amateurfunk - Das umfassende Handbuch (DL6RAL) - [Website Rheinwerk Verlag](https://www.rheinwerk-verlag.de/amateurfunk-das-umfassende-handbuch/)
-* Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse E - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-E)
-* Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse A - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
-* Amateurfunklehrgang Betriebstechnik und Vorschriften - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Betriebstechnik-und-Vorschriften)
-
-## Tools
+## hilfreiche Tools
 * Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** - [Github](https://github.com/larsweiler/freerfz)
 * **Geländetopographie** zwischen zwei Punkten darstellen - [Heywhatsthat](https://www.heywhatsthat.com/)
-
-### Lernhilfen
-* **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php) - [Website](http://www.hamradiotrainer.de)
-* **AfuP** Prüfungstraining für das Amateurfunkzeugnis - [Website](https://www.afup.a36.de/)
-* **Morsen** lernen von DJ4UF aka Eckart K.W. Moltrecht - [Website](https://dj4uf.de/morsen)
-* **Lichtblicke & Krücken** von DL9HCG aka G- Lindemann - [Website](https://www.dl9hcg.a36.de/)
 
 ### SDR
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
