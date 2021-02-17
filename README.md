@@ -25,7 +25,12 @@ Beiträge sind immer gern willkommen --> Pull request
 ## Tools
 * Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** - [Github](https://github.com/larsweiler/freerfz)
 * **Geländetopographie** zwischen zwei Punkten darstellen - [Heywhatsthat](https://www.heywhatsthat.com/)
-* **Ham Radio Trainer** gute Lernhilfe für die Prüfung - [Website](http://www.hamradiotrainer.de)
+
+### Lernhilfen
+* **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php) - [Website](http://www.hamradiotrainer.de)
+* **AfuP** Prüfungstraining für das Amateurfunkzeugnis - [Website](https://www.afup.a36.de/)
+* **Morsen** lernen von DJ4UF aka Eckart K.W. Moltrecht - [Website](https://dj4uf.de/morsen)
+* **Lichtblicke & Krücken** von DL9HCG aka G- Lindemann - [Website](https://www.dl9hcg.a36.de/)
 
 ### SDR
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
