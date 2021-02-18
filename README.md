@@ -42,5 +42,5 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * gqrx - Open source software defined radio - [Website](https://gqrx.dk) - [Github](https://github.com/csete/gqrx)
 
 ## Antennen
-* Bauanleitung einer **T2LT** für's 11m-Band - [Website Forestradio][https://forestradio.wordpress.com/2019/05/26/bauanleitung-t2lt-27mhz-cb-funk-drahtantenne/)
+* Bauanleitung einer **T2LT** für's 11m-Band - [Website Forestradio](https://forestradio.wordpress.com/2019/05/26/bauanleitung-t2lt-27mhz-cb-funk-drahtantenne/)
 
