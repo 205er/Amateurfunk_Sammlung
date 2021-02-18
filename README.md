@@ -16,8 +16,8 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * Prüfungsfragen in den Prüfungsteilen **"Betriebliche Kenntnisse"** und **"Kenntnisse von Vorschriften"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klassen A und E** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/BetriebVorschriftFragKlAuEId7830pdf.pdf?__blob=publicationFile&v=7)
 * Prüfungsfragen im Prüfungsteil **"Technische Kenntnisse"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klasse A** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/TechnikFragenkatalogKlasseAf252rId9014pdf.pdf?__blob=publicationFile&v=5)
 * Prüfungsfragen im Prüfungsteil **"Technische Kenntnisse"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klasse E** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/Technik_KI_E_Katalog-2006-v1-2z.pdf?__blob=publicationFile&v=2)
-* Extrahierte **Formelsammlung Klasse A** aus dem Fragenkatalog der BNetzA - [PDF](Formelsammlung Klasse A - 2007.pdf)
-* Extrahierte **Formelsammlung Klasse E** aus dem Fragenkatalog der BNetzA - [PDF](Formelsammlung Klasse E - 2006.pdf)
+* Extrahierte **Formelsammlung Klasse A** aus dem Fragenkatalog der BNetzA - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/Formelsammlung%20Klasse%20A%20-%202007.pdf)
+* Extrahierte **Formelsammlung Klasse E** aus dem Fragenkatalog der BNetzA - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/Formelsammlung%20Klasse%20E%20-%202006.pdf)
 
 ### Bücher
 * Amateurfunk - Das umfassende Handbuch (DL6RAL) 🇩🇪 - [Website Rheinwerk Verlag](https://www.rheinwerk-verlag.de/amateurfunk-das-umfassende-handbuch/)
