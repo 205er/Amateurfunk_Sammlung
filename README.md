@@ -10,7 +10,7 @@ Beiträge sind immer gern willkommen --> Pull request
 * **Lichtblicke & Krücken** von DL9HCG aka G- Lindemann 🇩🇪 - [Website](https://www.dl9hcg.a36.de/)
 * Der Amateurfunkbehelf 🇨🇭 - [Webseite](http://ham.granjow.net/behelf.html) - [Github](https://github.com/hb4ff/Amateurfunkbehelf)
 * einfache Formelsammlung 🇨🇭 - [Github](https://github.com/kkroesch/formelsammlung)
-* AFU Bandplan für Deutschland - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.pdf), [ODS](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.ods)
+* AFU Bandplan für Deutschland 🇩🇪 - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.pdf), [ODS](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.ods)
 
 ### Fragenkataloge der Bundesnetzagentur 🇩🇪
 Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüfunk in Deutschland sind, auf Ihrer [Webseite](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/SpezielleAnwendungen/Amateurfunk/_functions/faq_Amateurfunk-table.html#FAQ686290) in digitaler Form zur Verfügung.
