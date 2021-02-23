@@ -22,9 +22,10 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 
 ### Bücher
 * Amateurfunk - Das umfassende Handbuch (DL6RAL) 🇩🇪 - [Website Rheinwerk Verlag](https://www.rheinwerk-verlag.de/amateurfunk-das-umfassende-handbuch/)
-* Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse E 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-E)
-* Amateurfunklehrgang Technik für das Amateurfunkzeugnis Klasse A 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
-* Amateurfunklehrgang Betriebstechnik und Vorschriften 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Betriebstechnik-und-Vorschriften)
+* Amateurfunklehrgang **Technik** für das Amateurfunkzeugnis **Klasse E** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-E)
+* Amateurfunklehrgang **Technik** für das Amateurfunkzeugnis **Klasse A** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
+* Amateurfunklehrgang **Betriebstechnik** und **Vorschriften** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Betriebstechnik-und-Vorschriften)
+* Rothammels **Antennenbuch** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Rothammels-Antennenbuch)
 
 ## Foren
 * CB-Funk-lastiges Forum - [**Funkbasis**](https://funkbasis.de/)
