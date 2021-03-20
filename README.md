@@ -43,7 +43,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 
 ### SDR
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
-* KiwiSDR Linksammlung - [Website](http://kiwisdr.com/public/)
+* KiwiSDR Linksammlung - [Website](http://kiwisdr.com/public/), [Karte](http://map.kiwisdr.com/)
 * gqrx - Open source software defined radio - [Website](https://gqrx.dk) - [Github](https://github.com/csete/gqrx)
 
 ## Antennen
