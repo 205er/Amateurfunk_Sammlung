@@ -50,6 +50,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 ## Antennen
 * Sammlung von verschiedenen 11m-Band-Antennen zum selber bauen - [Website](https://antennenbau.dxfreun.de/krampfader/)
 * Bauanleitung einer **T2LT** für's 11m-Band - [Website Forestradio](https://forestradio.wordpress.com/2019/05/26/bauanleitung-t2lt-27mhz-cb-funk-drahtantenne/)
+* Multiband-Dipol "DO-Antenne" von DG0KW - [Website DARC Ortsverband Stralsund - V03](https://www.dl0hst.de/do_antenne.htm)
 
 ## praktischer Funkbetrieb
 * IARU: "**Ethik und Betriebshinweise für den Funkamateur**" - [PDF Ver. 3.3 von DARC-Website](https://www.darc.de/fileadmin/filemounts/gs/Funkbetrieb/ETHIK_UND_BETRIEBSHINWEISE_rev3__3_.pdf)
