@@ -36,6 +36,8 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 ## Youtube Channels
 * **DL2YMR** - gute Mischung aus Wissen- und Praxisvermittlung - [DL2YMR@YT](https://www.youtube.com/user/DL2YMR/)
 * **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests - [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
+* **DD0UL QTC** - informative Beiträge rund um den Amateurfunk - [DD0UL@YT](https://www.youtube.com/c/DD0ULQTC/videos)
+* **DARC** - Channel vom DARC e.V. - [DARC@YT](https://www.youtube.com/user/DARCHAMRADIO/videos)
 
 ## hilfreiche Tools
 * Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** 🇩🇪 - [Github](https://github.com/larsweiler/freerfz)
