@@ -27,6 +27,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * Amateurfunklehrgang **Technik** für das Amateurfunkzeugnis **Klasse A** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
 * Amateurfunklehrgang **Betriebstechnik** und **Vorschriften** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Betriebstechnik-und-Vorschriften)
 * Rothammels **Antennenbuch** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Rothammels-Antennenbuch)
+* Ham Booklet [Github](https://github.com/NoelM/hambooklet) 
 
 ## Foren
 * CB-Funk-lastiges Forum - [**Funkbasis**](https://funkbasis.de/)
