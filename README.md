@@ -39,6 +39,8 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **DL2YMR** - gute Mischung aus Wissen- und Praxisvermittlung - [DL2YMR@YT](https://www.youtube.com/user/DL2YMR/)
 * **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests - [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
 * **DD0UL QTC** - informative Beiträge rund um den Amateurfunk - [DD0UL@YT](https://www.youtube.com/c/DD0ULQTC/videos)
+* **Robert's kleine Welt** - sehr kreativer Kanal, der den Fokus aufs "Selbermachen" legt. [robertskleinewelt@YT](https://www.youtube.com/@robertskleinewelt)
+* **Lutz-Electronics** - SOTA-Betrieb und Produktvorstellungen. [HB9NBG und HB9FZC@YT](https://www.youtube.com/@LutzElectronicsHB9NBGundHB9FZC/)
 * **DARC** - Channel vom DARC e.V. - [DARC@YT](https://www.youtube.com/user/DARCHAMRADIO/videos)
 
 ## hilfreiche Tools
