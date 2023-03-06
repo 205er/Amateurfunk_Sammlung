@@ -47,6 +47,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** 🇩🇪 - [Github](https://github.com/larsweiler/freerfz)
 * **Geländetopographie** zwischen zwei Punkten darstellen 🌍 - [Heywhatsthat](https://www.heywhatsthat.com/)
 * **OpenTopoMap** - Topographische Landkarte auf Basis von OpenStreetMap mit QTH-Locator 🌍 - [Karte](https://opentopomap.org/)
+* **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 
 ### SDR
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
