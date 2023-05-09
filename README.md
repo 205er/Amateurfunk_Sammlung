@@ -50,6 +50,14 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Topographische Karte** 🌍 - [Karte](https://de-de.topographic-map.com/)
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 
+### Log Book
+* **Cloudlog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/magicbug/Cloudlog/)
+
+### Digi Modes
+* **WSJT-X** - Tool zur Nutzung der Protokolle FST4, FST4W, **FT4**, **FT8**, JT4, JT9, JT65, Q65, MSK144, and WSPR - [sourceforge.io](https://wsjt.sourceforge.io/wsjtx.html)
+* **fldigi** - Tool zur Nutzung der "Protokolle" CW, PSK, MFSK, RTTY, Hell, DominoEX, Olivia und Throb - [sourceforge.io](https://sourceforge.net/projects/fldigi/)
+
+
 ### SDR
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
 * KiwiSDR Linksammlung - [Website](http://kiwisdr.com/public/), [Karte](http://map.kiwisdr.com/)
