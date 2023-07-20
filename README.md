@@ -55,6 +55,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 
 ### Digi Modes
 * **WSJT-X** - Tool zur Nutzung der Protokolle FST4, FST4W, **FT4**, **FT8**, JT4, JT9, JT65, Q65, MSK144, and WSPR - [sourceforge.io](https://wsjt.sourceforge.io/wsjtx.html)
+* **GridTracker** - Addon für WSJT-X, um Verbindungsdaten zu visualisieren - [gridtracker.org](https://gridtracker.org/)
 * **fldigi** - Tool zur Nutzung der "Protokolle" CW, PSK, MFSK, RTTY, Hell, DominoEX, Olivia und Throb - [sourceforge.io](https://sourceforge.net/projects/fldigi/)
 
 
