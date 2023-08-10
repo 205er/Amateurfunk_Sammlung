@@ -7,6 +7,7 @@ Beiträge sind immer gern willkommen --> Pull request
 * **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php) - [Website](http://www.hamradiotrainer.de)
 * **AfuP** Prüfungstraining für das Amateurfunkzeugnis 🇩🇪 - [Website](https://www.afup.a36.de/)
 * DARC **Online-Lehrgang** 🇩🇪 - [Website](https://www.darc.de/der-club/referate/ajw/darc-online-lehrgang/)
+* DARC **Umfangreiche Ausbildungsangebote zur Prüfungsvorbereitung** 🇩🇪 - [Webseite](https://www.darc.de/der-club/distrikte/l/referat-fuer-aus-und-weiterbildung/)
 * **Morsen** lernen von DJ4UF aka Eckart K.W. Moltrecht - [Website](https://dj4uf.de/morsen)
 * **Lichtblicke & Krücken** von DL9HCG aka G. Lindemann 🇩🇪 - [Website](https://www.dl9hcg.a36.de/)
 * **Technisches Rechnen für Funkamateure** von DD3AH aka E. Obermayr 🇩🇪 - [Website](https://dd3ah.de/rechenkurs/)
