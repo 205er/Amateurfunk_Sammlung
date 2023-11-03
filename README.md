@@ -38,12 +38,14 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * Forum der **DL-QRP-AG** für QRP und Selbstbau im Amateurfunk - [QRP Forum](https://www.qrpforum.de/forum/)
 
 ## Youtube Channels
+* **Robert's kleine Welt** - sehr kreativer Kanal, der den Fokus aufs "Selbermachen" legt. [robertskleinewelt@YT](https://www.youtube.com/@robertskleinewelt)
 * **DL2YMR** - gute Mischung aus Wissen- und Praxisvermittlung - [DL2YMR@YT](https://www.youtube.com/user/DL2YMR/)
+* **F74** - Interviews und AFU-Praxis aus dem DARC Ortsverband Südlicher Westerwald F74 - [F74@YT](https://www.youtube.com/@foxtrot74)
 * **Funkwelle** - toller Channel mit Produktvorstellungen und Praxistests - [Funkwelle@YT](https://www.youtube.com/c/Funkwelle/)
 * **DD0UL QTC** - informative Beiträge rund um den Amateurfunk - [DD0UL@YT](https://www.youtube.com/c/DD0ULQTC/videos)
-* **Robert's kleine Welt** - sehr kreativer Kanal, der den Fokus aufs "Selbermachen" legt. [robertskleinewelt@YT](https://www.youtube.com/@robertskleinewelt)
 * **Lutz-Electronics** - SOTA-Betrieb und Produktvorstellungen. [HB9NBG und HB9FZC@YT](https://www.youtube.com/@LutzElectronicsHB9NBGundHB9FZC/)
 * **DARC** - Channel vom DARC e.V. - [DARC@YT](https://www.youtube.com/user/DARCHAMRADIO/videos)
+* **Kaffeemaschine** - Auf diesem Kanal geht es vor allem um (Antennen-)Selbstbau - [Kaffeemaschine@YT](https://www.youtube.com/@kaffeemaschine8202)
 
 ## hilfreiche Tools
 * Python-Script zur Auswertung **Freier Rufzeichen in Deutschland** 🇩🇪 - [Github](https://github.com/larsweiler/freerfz)
@@ -52,7 +54,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Topographische Karte** 🌍 - [Karte](https://de-de.topographic-map.com/)
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 
-### Log Book
+### Logbuch
 * **Cloudlog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/magicbug/Cloudlog/)
 
 ### Digi Modes
@@ -64,6 +66,10 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
 * KiwiSDR Linksammlung - [Website](http://kiwisdr.com/public/), [Karte](http://map.kiwisdr.com/)
 * gqrx - Open source software defined radio - [Website](https://gqrx.dk) - [Github](https://github.com/csete/gqrx)
+
+## Repeater/Relais
+* Kartendarstellung von Repeatern - [Website](https://repeatermap.de/)
+* Repeater-Verzeichnis - [Website](https://www.repeaterbook.com/index.php/de-de)
 
 ## Antennen
 * Sammlung von verschiedenen 11m-Band-Antennen zum selber bauen - [Website](https://antennenbau.dxfreun.de/krampfader/)
