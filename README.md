@@ -83,6 +83,9 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 
 ### Funkwetter/Ausbreitungsbedingungen
 * [Überblick zu den den aktuellen Ausbreitungsbedingungen](https://solar.w5mmw.net)
+* [Ausbereitungsvorhersage in Kartendarstellung](https://dr2w.de/dx-propagation/) (DR2W)
+* [Ionogramm](https://www.iap-kborn.de/fileadmin/user_upload/MAIN-abteilung/radar/Radars/Ionosonde/Plots/LATEST.PNG) (Leibniz-Institut für Atmosphärenphysik)
+* [Simulation der HF-Ausbreitungsbedingungen](https://www.voacap.com/hf/) (Voice of America Coverage Analysis Program)
 
 ### DX Cluster
 * [DXHeat](https://dxheat.com/dxc/)
