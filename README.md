@@ -5,7 +5,7 @@ Beiträge sind immer gern willkommen --> Pull request
 
 ## Lernhilfen
 * **50 Ohm** Die neue Ausbildungsplattform des DARC für die Prüfungsvorbereitung 🇩🇪 - [Website](https://50ohm.de/)
-* **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php) - [Website](http://www.hamradiotrainer.de)
+* **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php)) - [Website](http://www.hamradiotrainer.de)
 * **AfuP** Prüfungstraining für das Amateurfunkzeugnis 🇩🇪 - [Website](https://www.afup.a36.de/)
 * **Afutest** ein Online-Tester des offiziellen Prüfungskatalogs der BNetzA 🇩🇪 - [Webseite](https://afutest.ewers.net/)
 * DARC **Online-Lehrgang** 🇩🇪 - [Website](https://www.darc.de/der-club/referate/ajw/darc-online-lehrgang/)
@@ -32,7 +32,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * Amateurfunklehrgang **Technik** für das Amateurfunkzeugnis **Klasse A** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Technik-fuer-das-Amateurfunkzeugnis-Klasse-A)
 * Amateurfunklehrgang **Betriebstechnik** und **Vorschriften** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Amateurfunklehrgang-Betriebstechnik-und-Vorschriften)
 * Rothammels **Antennenbuch** 🇩🇪 - [Website DARC Verlag](https://darcverlag.de/Rothammels-Antennenbuch)
-* Ham Booklet [Github](https://github.com/NoelM/hambooklet)
+* Ham Booklet 🌍 - [Github](https://github.com/NoelM/hambooklet)
 * US Marine Corps - Antenna Handbook [Github](https://github.com/205er/Amateurfunk_Sammlung/blob/3f8aad6925c21553dfc411becbd2f992b53418e2/MCRP-8-10B.11.pdf)
 
 ## Foren
