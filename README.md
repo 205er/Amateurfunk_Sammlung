@@ -17,9 +17,13 @@ Beiträge sind immer gern willkommen --> Pull request
 * einfache Formelsammlung 🇨🇭 - [Github](https://github.com/kkroesch/formelsammlung)
 * AFU Bandplan für Deutschland 🇩🇪 - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.pdf), [ODS](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.ods)
 
-### Fragenkataloge der Bundesnetzagentur 🇩🇪
+### Fragenkataloge der Bundesnetzagentur - :warning: ab 23. Juni 2024 :warning:  🇩🇪
+Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüfunk in Deutschland sind, auf Ihrer [Webseite](https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/start.html) in digitaler Form zur Verfügung.
+* Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/Pruefungsfragen.pdf?__blob=publicationFile&v=1)
+* Extrahierte aus dem Fragenkatalog der BNetzA, Stand Dez. 2023 - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/Formelsammlung%20-%20Dez.%202023.pdf)
+  
+### Fragenkataloge der Bundesnetzagentur - :warning: bis 23. Juni 2024 :warning:  🇩🇪
 Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüfunk in Deutschland sind, auf Ihrer [Webseite](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/SpezielleAnwendungen/Amateurfunk/_functions/faq_Amateurfunk-table.html#FAQ686290) in digitaler Form zur Verfügung.
-* Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen (ab 24. Juni 2024) - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/Pruefungsfragen.pdf?__blob=publicationFile&v=1)
 * Prüfungsfragen in den Prüfungsteilen **"Betriebliche Kenntnisse"** und **"Kenntnisse von Vorschriften"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klassen A und E** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/BetriebVorschriftFragKlAuEId7830pdf.pdf?__blob=publicationFile&v=7)
 * Prüfungsfragen im Prüfungsteil **"Technische Kenntnisse"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klasse A** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/TechnikFragenkatalogKlasseAf252rId9014pdf.pdf?__blob=publicationFile&v=5)
 * Prüfungsfragen im Prüfungsteil **"Technische Kenntnisse"** bei Prüfungen zum Erwerb von Amateurfunkzeugnissen der **Klasse E** - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/Fragenkatalog/Technik_KI_E_Katalog-2006-v1-2z.pdf?__blob=publicationFile&v=2)
