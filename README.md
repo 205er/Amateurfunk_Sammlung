@@ -5,6 +5,7 @@ Beiträge sind immer gern willkommen --> Pull request
 
 ## Lernhilfen
 * **50 Ohm** Die neue Ausbildungsplattform des DARC für die Prüfungsvorbereitung 🇩🇪 - [Website](https://50ohm.de/)
+* **Klasse N Videokurs** der begleitend zu 50ohm.de von DL2YMR erstellt wird 🇩🇪 - [DL2YMR@YouTube](https://youtube.com/playlist?list=PLDpWnjHk5ERbcgpLPUaU0iTsD-wrmfENk&si=D7rRJrxtRinYc7xR)
 * **Ham Radio Trainer** Lernprogramm für die Prüfungsvorbereitung (enthält viele internationale [Fragenkataloge](http://www.hamradiotrainer.de/fragenkataloge.php)) - [Website](http://www.hamradiotrainer.de)
 * **AfuP** Prüfungstraining für das Amateurfunkzeugnis 🇩🇪 - [Website](https://www.afup.a36.de/)
 * **Afutest** ein Online-Tester des offiziellen Prüfungskatalogs der BNetzA 🇩🇪 - [Webseite](https://afutest.ewers.net/)
