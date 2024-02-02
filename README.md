@@ -63,6 +63,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 
 ### Logbuch
+* **Wavelog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/wavelog/wavelog)
 * **Cloudlog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/magicbug/Cloudlog/)
 
 ### Digi Modes
