@@ -61,6 +61,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Topographische Karte** 🌍 - [Karte](https://de-de.topographic-map.com/)
 * **Linkstreckenberechnung** - [Tool](http://ham.remote-area.net/linktool/index.php)
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
+* **Signal Identification Guide** - Informationen, um unbekannte Signale zu identifizieren 🌍 - (https://www.sigidwiki.com)
 
 ### Logbuch
 * **Wavelog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/wavelog/wavelog)
