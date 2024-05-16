@@ -100,6 +100,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * [Ausbereitungsvorhersage in Kartendarstellung](https://dr2w.de/dx-propagation/) (DR2W)
 * [Ionogramm](https://www.iap-kborn.de/fileadmin/user_upload/MAIN-abteilung/radar/Radars/Ionosonde/Plots/LATEST.PNG) (Leibniz-Institut für Atmosphärenphysik)
 * [Simulation der HF-Ausbreitungsbedingungen](https://www.voacap.com/hf/) (Voice of America Coverage Analysis Program)
+* [Das "Weltraumwetter"](https://www.solarham.com) (von VE3EN)
 
 ### DX Cluster
 * [DXHeat](https://dxheat.com/dxc/)
