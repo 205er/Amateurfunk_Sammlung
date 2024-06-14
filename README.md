@@ -112,6 +112,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * [F5LEN Webcluster](https://cluster.f5len.org/)
 * [DJ4PK Webcluster](https://dx-cluster.de/)
 * [QRPCluster](https://qrpcluster.com/)
+* **HamAlert** - ein System, dass verschiedene Quellen überwacht und Alarm schlägt, sobald bestimmte Stationen on Air sind - [hamalert.org](https://hamalert.org/)
 
 ## Antennen
 * Rund um die Antenne von HB9ACC - Praxisorientierte Antennenkunde für Funkamateure - [PDF-Sammlung](https://www.darc.de/der-club/distrikte/c/ortsverbaende/09/eigenbau-sammlungen-und-geraete/antennen/)
