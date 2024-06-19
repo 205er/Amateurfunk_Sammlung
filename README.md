@@ -70,6 +70,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **OpenTopoMap** - Topographische Landkarte auf Basis von OpenStreetMap mit QTH-Locator 🌍 - [Karte](https://opentopomap.org/)
 * **Topographische Karte** 🌍 - [Karte](https://de-de.topographic-map.com/)
 * **Linkstreckenberechnung** - [Tool](http://ham.remote-area.net/linktool/index.php)
+* **Maidenhead Grid Square Karte** - Grid Square für einen Punkt auf der Karte bestimmen - [Karte](https://dxcluster.ha8tks.hu/hamgeocoding/)
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 * **Signal Identification Guide** - Informationen, um unbekannte Signale zu identifizieren 🌍 - (https://www.sigidwiki.com)
 
