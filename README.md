@@ -71,6 +71,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Topographische Karte** 🌍 - [Karte](https://de-de.topographic-map.com/)
 * **Linkstreckenberechnung** - [Tool](http://ham.remote-area.net/linktool/index.php)
 * **Maidenhead Grid Square Karte** - Grid Square für einen Punkt auf der Karte bestimmen - [Karte](https://dxcluster.ha8tks.hu/hamgeocoding/)
+* **Log Analyzer** - Kartendarstellung von QSO aus einem ADIF-file - [Karte](http://tools.adventureradio.de/analyzer/)
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 * **Signal Identification Guide** - Informationen, um unbekannte Signale zu identifizieren 🌍 - (https://www.sigidwiki.com)
 
