@@ -87,6 +87,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **FT8CN** - Android-Applikation für den FT8-Betrieb mit dem Smartphone/Tablet - [Github](https://github.com/N0BOY/FT8CN)
 
 ### SDR
+* WebSDR-Suche - [Website](https://rx-tx.info/map-sdr-points)
 * WebSDR Linksammlung - [Website](http://www.websdr.org)
 * KiwiSDR Linksammlung - [Website](http://kiwisdr.com/public/), [Karte](http://map.kiwisdr.com/)
 * gqrx - Open source software defined radio - [Website](https://gqrx.dk) - [Github](https://github.com/csete/gqrx)
