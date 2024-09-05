@@ -49,8 +49,9 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Draussenfunker** beschäftigen sich mit Funk im Freien - [Webseite](https://draussenfunker.de)
 * Sehr praktische Anleitung, was im Falle eines Rufzeichenwechsels zu tun und zu bendenken ist 🇩🇪 - [Webseite von DB4SCW](https://www.db4scw.de/callsign-wechsel-in-deutschland/)
 
-### Foren
+### Communities (Foren & Chats)
 * sehr lebhafte Community der Draussenfunker - [**Draussenfunker**@Discord](https://discord.gg/4RkRRwXtty)
+* Matrix-Chat des DARC e.V. - [**Matrix**](https://chat.darc.de/)
 * CB-Funk-lastiges Forum - [**Funkbasis**](https://funkbasis.de/)
 * Österreichisches CB-Funk-Forum - [**CB Funk Austria**](https://www.cb-funk.at/)
 * Forum der **DL-QRP-AG** für QRP und Selbstbau im Amateurfunk - [QRP Forum](https://www.qrpforum.de/forum/)
