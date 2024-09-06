@@ -97,6 +97,10 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * Kartendarstellung von Repeatern - [Website](https://repeatermap.de/)
 * Repeater-Verzeichnis - [Website](https://www.repeaterbook.com/index.php/de-de)
 
+### DMR
+* **Brandmeister Hoseline** - ermöglicht Online-Mithören der Talkgroups [Hoseline](https://hose.brandmeister.network)
+* **Kontaktlisten** (Radio ID-User-Mapping) für den Import in verschiedene DMR-Funkgeräte - [Github](https://github.com/ContactLists/NORMAL-ContactLists/tree/main)
+
 ## praktischer Funkbetrieb
 * IARU: "**Ethik und Betriebshinweise für den Funkamateur**" - [PDF Ver. 3.3 von DARC-Website](https://www.darc.de/fileadmin/filemounts/gs/Funkbetrieb/ETHIK_UND_BETRIEBSHINWEISE_rev3__3_.pdf)
 * Empfehlungen für **gute Betriebstechnik** von ON4WW - [Webseite](http://www.on4ww.be/OperatingPracticeGerman.html)
