@@ -21,6 +21,7 @@ Beiträge sind immer gern willkommen --> Pull request
 * Der Amateurfunkbehelf 🇨🇭 - [Webseite](http://ham.granjow.net/behelf.html) - [Github](https://github.com/hb4ff/Amateurfunkbehelf)
 * einfache Formelsammlung 🇨🇭 - [Github](https://github.com/kkroesch/formelsammlung)
 * AFU Bandplan für Deutschland 🇩🇪 - [PDF](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.pdf), [ODS](https://github.com/205er/Amateurfunk_Sammlung/blob/main/AFU%20Bandplan.ods)
+* Rufzeichenplan für den Amateurfunkdienst in Deutschland gültig ab 24.6.2024 🇩🇪 - [PDF](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Amateurfunk/AmtsblattverfuegungenAFu/Rufzeichenplan_06-24_Auszug_aus_Vfg_61_2024.html)
 
 ### Fragenkataloge der Bundesnetzagentur - :warning: ab 23. Juni 2024 :warning:  🇩🇪
 Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüfunk in Deutschland sind, auf Ihrer [Webseite](https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/start.html) in digitaler Form zur Verfügung.
