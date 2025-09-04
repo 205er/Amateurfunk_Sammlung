@@ -107,6 +107,9 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * IARU: "**Ethik und Betriebshinweise für den Funkamateur**" - [PDF Ver. 3.3 von DARC-Website](https://www.darc.de/fileadmin/filemounts/gs/Funkbetrieb/ETHIK_UND_BETRIEBSHINWEISE_rev3__3_.pdf)
 * Empfehlungen für **gute Betriebstechnik** von ON4WW - [Webseite](http://www.on4ww.be/OperatingPracticeGerman.html)
 
+### BNA
+* Onlinedienst zur [Anzeige einer Ortsfesten Amateurfunkstelle](https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99109069261000/herausgeber/LeiKa-102983297/region/000000000000)
+
 ### Funkwetter/Ausbreitungsbedingungen
 * [Überblick zu den den aktuellen Ausbreitungsbedingungen](https://solar.w5mmw.net)
 * [Ausbereitungsvorhersage in Kartendarstellung](https://dr2w.de/dx-propagation/) (DR2W)
