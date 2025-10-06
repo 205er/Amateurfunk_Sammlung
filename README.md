@@ -78,6 +78,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Log Analyzer** - Kartendarstellung von QSO aus einem ADIF-file - [Karte](http://tools.adventureradio.de/analyzer/)
 * **HamDXMap** - Darstellung der MUF (und foF2) in Kartenform 🌍 - [Karte](https://dxmap.f5uii.net)
 * **Signal Identification Guide** - Informationen, um unbekannte Signale zu identifizieren 🌍 - (https://www.sigidwiki.com)
+* **PropQuest** - Plot der foF2, foF3, MUF etc 🌍 - (https://www.propquest.co.uk/graphs.php)
 
 ### Logbuch
 * **Wavelog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/wavelog/wavelog)
@@ -129,6 +130,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **HamAlert** - ein System, dass verschiedene Quellen überwacht und Alarm schlägt, sobald bestimmte Stationen on Air sind - [hamalert.org](https://hamalert.org/)
 
 ## Antennen
+* Sehr hilfreiche Toolsammlung, um verschiedene Antennen zu designen, zu planen und zu analysieren - [Portable Antennas](https://portable-antennas.com/)
 * Rund um die Antenne von HB9ACC - Praxisorientierte Antennenkunde für Funkamateure - [PDF-Sammlung](https://www.darc.de/der-club/distrikte/c/ortsverbaende/09/eigenbau-sammlungen-und-geraete/antennen/)
 * Sammlung von verschiedenen 11m-Band-Antennen zum selber bauen - [Website](https://antennenbau.dxfreun.de/krampfader/)
 * Bauanleitung einer **T2LT** für's 11m-Band - [Website Forestradio](https://forestradio.wordpress.com/2019/05/26/bauanleitung-t2lt-27mhz-cb-funk-drahtantenne/)
