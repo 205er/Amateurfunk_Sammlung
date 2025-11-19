@@ -84,8 +84,9 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **Wavelog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/wavelog/wavelog)
   * **WaveLogGate** - Hardware-Schnittstelle  - [Github](https://github.com/wavelog/WaveLogGate)
   * **WaveLogGoat** - Hardware-Schnittstelle  - [Github](https://github.com/johnsonm/WaveLogGoat)
-  * **Wavelog_CI_V** - ICOM CI-V Connector für Wavelog basierend auf dem ESP32 - [Github](https://github.com/dg9vh/Wavelog_CI_V)
-  * **WLBridge4TRX** - Yaesu Schnittstelle für Wavelog basierend auf dem ESP32 - [Github](https://github.com/zone11/WLBridge4TRX)
+  * **Wavelog_CI_V** - ICOM CI-V-Connector für Wavelog basierend auf dem ESP32 - [Github](https://github.com/dg9vh/Wavelog_CI_V)
+  * **WLBridge4TRX** - Yaesu-Schnittstelle für Wavelog basierend auf dem ESP32 - [Github](https://github.com/zone11/WLBridge4TRX)
+  * **Wave-Flex Integrator** - FlexRadio-Schnitstelle für Wavelog - [Github](https://github.com/tnxqso/wave-flex-integrator)
 * **Cloudlog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/magicbug/Cloudlog/)
 
 ### Digi Modes
