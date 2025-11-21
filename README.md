@@ -81,9 +81,10 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * **PropQuest** - Plot der foF2, foF3, MUF etc 🌍 - (https://www.propquest.co.uk/graphs.php)
 
 ### Logbuch
-* **Wavelog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/wavelog/wavelog)
+* **WaveLog** - Web-basiertes Logbuch zum selber hosten - [Github](https://github.com/wavelog/wavelog)
   * **WaveLogGate** - Hardware-Schnittstelle  - [Github](https://github.com/wavelog/WaveLogGate)
   * **WaveLogGoat** - Hardware-Schnittstelle  - [Github](https://github.com/johnsonm/WaveLogGoat)
+  * **WaveLogStoat** - einfaches Schnittstellenprogramm, um QSO von einem beliebigen Log-Tool in WaveLog zu bringen (via ADIF oder UDP) - [Github](https://github.com/int2001/WaveLogStoat)
   * **Wavelog_CI_V** - ICOM CI-V-Connector für Wavelog basierend auf dem ESP32 - [Github](https://github.com/dg9vh/Wavelog_CI_V)
   * **WLBridge4TRX** - Yaesu-Schnittstelle für Wavelog basierend auf dem ESP32 - [Github](https://github.com/zone11/WLBridge4TRX)
   * **Wave-Flex Integrator** - FlexRadio-Schnitstelle für Wavelog - [Github](https://github.com/tnxqso/wave-flex-integrator)
