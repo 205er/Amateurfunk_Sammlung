@@ -132,6 +132,7 @@ Die Bundesnetzagentur stellt die offiziellen Fragenkataloge, die Basis der Prüf
 * [DXFUN](https://www.dxfuncluster.com/)
 * [F5LEN Webcluster](https://cluster.f5len.org/)
 * [DJ4PK Webcluster](https://dx-cluster.de/)
+* [Spothole](https://spothole.app)
 * [QRPCluster](https://qrpcluster.com/)
 * **HamAlert** - ein System, dass verschiedene Quellen überwacht und Alarm schlägt, sobald bestimmte Stationen on Air sind - [hamalert.org](https://hamalert.org/)
 
